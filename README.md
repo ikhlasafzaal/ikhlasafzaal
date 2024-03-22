@@ -1,3 +1,5 @@
+![logo](https://github.com/ikhlasafzaal/ikhlasafzaal/blob/main/bannerIkhlas.png)
+
 ### Hey there, I'm  Ikhlas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
 <div align="center">
