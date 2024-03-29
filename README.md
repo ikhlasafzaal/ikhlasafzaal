@@ -20,7 +20,7 @@
 
 ### A Student & Developer
 
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="coderGirl.gif" width="500" height="320" />
 
 <p>👨‍💻 Ikhlas, a Computer System Engineer graduate from Sir Syed University of Engineering & Technology, currently advancing skills at Aptech Computer Institute in pursuit of becoming a proficient Full Stack Developer. Concurrently enrolled in the Governor IT Initiative Program, delving into the realms of Web 3.0 Metaverse and Artificial Intelligence.</p>
 
